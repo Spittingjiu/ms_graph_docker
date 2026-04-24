@@ -82,6 +82,14 @@ User.Read.All      User.ReadWrite.All
 Directory.Read.All      Directory.ReadWrite.All
 Mail.Read      Mail.ReadWrite
 MailboxSettings.Read      MailboxSettings.ReadWrite
+
+Files.Read.All     Files.ReadWrite.All
+Sites.Read.All    Sites.ReadWrite.All
+User.Read.All      User.ReadWrite.All
+Directory.Read.All       Directory.ReadWrite.All
+Mail.Read        Mail.ReadWrite
+MailboxSettings.Read           MailboxSettings.ReadWrite
+
 ```
 7. 在API权限页面，如果界面上有`代表xxx授予管理员同意`按钮，一定要点一下，然后同意授权！如果没有这个按钮，就不用管了！
 ![](https://pic.rmb.bdstatic.com/bjh/846189e6a636dc4f300a814696621d05.png)
